@@ -19,6 +19,7 @@ npm install dom-bokeh
 | `focus depth` | How "far" into the page the "camera" is focused (e.g. 50mm) |
 | `f-stop` | How much "light" comes through |
 | `camera-zero` | where in DOM is `focus depth` away |
+| `camera-type` | `black & white` or `color` | 
 
 ## Authors
 * [Jake Glascock](https://github.com/JakeGlascock)

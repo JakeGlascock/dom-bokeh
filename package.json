@@ -1,0 +1,16 @@
+{
+  "name": "dom-bokeh",
+  "version": "0.1.0",
+  "description": "DOM parsing bokeh effect creator",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "bokeh",
+    "focus",
+    "dom"
+  ],
+  "author": "Jake Glascock",
+  "license": "ISC"
+}

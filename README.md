@@ -21,8 +21,8 @@ npm install dom-bokeh
 | `camera-zero` | where in DOM is `focus depth` away |
 
 ## Authors
-* @JakeGlascock
-* @chrisfronda
+* [Jake Glascock](https://github.com/JakeGlascock)
+* [Chris Fronda](https://github.com/chrisfronda)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

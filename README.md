@@ -15,8 +15,8 @@ npm install dom-bokeh
 ## Properties
 | Inputs | Description |
 | --- | --- |
-| `lighting` | 3D angle at which the "light" is coming from |
-| `focus depth` | How "far" into the page the "camera" is focused (e.g. 50mm) |
+| `lighting` | 3D angle at which the "light" is coming from (3 point lighting?) |
+| `focus-depth` | How "far" into the page the "camera" is focused (e.g. 50mm) |
 | `f-stop` | How much "light" comes through |
 | `camera-zero` | where in DOM is `focus depth` away |
 | `camera-type` | `black & white` or `color` | 

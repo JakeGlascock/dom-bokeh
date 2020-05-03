@@ -1,6 +1,6 @@
 {
   "name": "dom-bokeh",
-  "version": "0.1.0",
+  "version": "0.1.01",
   "description": "DOM parsing bokeh effect creator",
   "main": "dist/index.js",
   "scripts": {
